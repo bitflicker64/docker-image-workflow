@@ -18,4 +18,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/docker-image-workflow:latest
+          tags: ${{ secrets.DOCKEHUB_USERNAME }}/docker-image-workflow:latest
